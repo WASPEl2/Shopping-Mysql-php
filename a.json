@@ -1,0 +1,23 @@
+{
+    [
+        "id"
+    ]=> string(2) "42"[
+        "sales_id"
+    ]=> string(2) "42"[
+        "product_id"
+    ]=> string(2) "11"[
+        "quantity"
+    ]=> string(1) "7"[
+        "category_id"
+    ]=> string(1) "2"[
+        "name"
+    ]=> string(39) "HP Barebones OMEN X 900-099nn Gaming PC"[
+        "description"
+    ]=> string(243) "
+What's inside matters.
+
+Without proper cooling, top tierperformance never reaches its fullpotential.
+
+Nine lighting zones accentuate theaggressive lines and smooth blackfinish of this unique galvanized steelcase.
+
+" ["slug"]=> string(39) "hp-barebones-omen-x-900-099nn-gaming-pc" ["price"]=> string(6) "489.98" ["photo"]=> string(43) "hp-barebones-omen-x-900-099nn-gaming-pc.jpg" ["date_view"]=> string(10) "2024-04-02" ["counter"]=> string(1) "1" ["user_id"]=> string(1) "2" ["sales_date"]=> string(10) "2024-04-02" ["payer_fname"]=> string(3) "asd" ["payer_lname"]=> string(3) "asd" ["payer_email"]=> string(11) "asd@asd.asd" ["payer_address"]=> string(6) "123456" ["payer_postcode"]=> string(6) "123456" ["payer_tel"]=> string(10) "0616953710" ["payer_content"]=> string(0) "" ["receiver_fname"]=> string(3) "asd" ["receiver_lname"]=> string(3) "asd" ["receiver_email"]=> string(3) "asd" ["receiver_address"]=> string(3) "asd" ["receiver_postcode"]=> string(3) "asd" ["receiver_tel"]=> string(3) "asd" ["receiver_content"]=> string(0) "" ["sale_status"]=> string(7) "pending" ["prodname"]=> string(39) "HP Barebones OMEN X 900-099nn Gaming PC" }
